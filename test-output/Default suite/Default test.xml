@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="LIN35007383" name="guru.gittest.MyTest" tests="1" failures="0" timestamp="27 Nov 2018 10:46:56 GMT" time="12.727" errors="0">
+  <testcase name="f" time="12.717" classname="guru.gittest.MyTest"/>
+</testsuite>
